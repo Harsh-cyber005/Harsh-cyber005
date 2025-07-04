@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshmax-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshGuptaNJ29)
 
 <div align="center">
-⭕️ <b>For Professional details</b> - <a href="https://docs.google.com/viewer?url=https://github.com/Harsh-cyber005/Resume/blob/31d8b60eacf893ae9b5b051d89ce1029bafd8c6a/Harsh_Gupta_resume.pdf" target="_blank" type="application/pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
+⭕️ <b>For Professional details</b> - <a href="https://docs.google.com/viewer?url=https://github.com/Harsh-cyber005/Resume/raw/master/Harsh_Gupta_resume.pdf" target="_blank" type="application/pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
 </div>
 
 # 💻 Tech Stack:
